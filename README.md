@@ -1,6 +1,11 @@
-# 📄 PropDoc AI – Smart Document Intelligence
+## 🚀 My Projects
 
-PropDoc AI is an AI-powered document analysis application built using **Python and Streamlit**. It helps users upload PDF documents, extract their text, analyze the content using AI, ask questions, and compare two documents.
+### 📄 PropDoc AI – Smart Document Intelligence
+
+AI-powered application for uploading, analyzing, questioning, and comparing PDF documents using OCR and OpenAI.
+
+🔗 **Live Demo:** https://propdoc-ai-bhurnggnfd7ejy9t6gaapm.streamlit.app
+
 
 ## 🚀 Features
 
